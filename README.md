@@ -27,6 +27,6 @@ This repository is just a pool of resources available online for researchers wor
 
 # Contact
 
-If you have any tools, please add open a pull request or send me an email with the details and I will add here.
+If you have any tools, please send me an email with the details and I will add it to this repository.
 Nabajeet Barman, Kingston University, London, UK (n.barman@kingston.ac.uk, n.barman@ieee.org)
 
