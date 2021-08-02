@@ -9,16 +9,21 @@ Tool for plotting rd curves from output of video coding test model software
 
 ## Analysing YUV Videos, bitstreams, etc.
 
-A great tool for analyzing YUV videos, bitstreams (HEVC, VVC, anything that can be decoded with FFMPEG) including coding modes, buffer states of the HRD and much more: https://github.com/IENT/YUView. It is completely open source and runs on any platform
+A great tool for analyzing YUV videos, bitstreams (HEVC, VVC, anything that can be decoded with FFMPEG) including coding modes, buffer states of the HRD and much more is available on github [here](https://github.com/IENT/YUView). It is completely open source and runs on any platform.
 
 
 ## Video Coding Utilities (VCU)
 
-A collection of tools for research in video compression: Video Coding Utilities (VCU) available on github here: https://github.com/matteonaccari/vcu. 
+A collection of tools for research in video compression: Video Coding Utilities (VCU) available on github [here](https://github.com/matteonaccari/vcu). 
+
+## Video Coding Tutorial (VCT)
+
+Tutorials on the fundamentals tools used in image and video compression available on github [here](https://github.com/matteonaccari/vct).
+
 
 ## Quality Metric Calculation
 
-Open Source implementation of the PSNR-HVS-M, HVS, HA and HMA metrics https://github.com/lyckantropen/psnr_hvsm 
+Open Source implementation of the PSNR-HVS-M, HVS, HA and HMA metrics available on github [here](https://github.com/lyckantropen/psnr_hvsm).
 It's available from pip for Python 3.6-3.9 - pip install psnr_hvsm
 
 # Disclaimer
